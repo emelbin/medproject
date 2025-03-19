@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fafa3bf3-24e5-4940-be4c-61d0ca3d6b48" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2spuZ0WtewTjkW0drtZBM6FeC4u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Flutter.main.dart.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "io.flutter.reload.alreadyRun": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/AndroidStudioProjects/medeliveradmin",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\AndroidStudioProjects\meddeliver\assets\images" />
+      <recent name="C:\Users\LENOVO\AndroidStudioProjects\meddeliver\android\app" />
+      <recent name="C:\Users\LENOVO\AndroidStudioProjects\meddeliver\assets\icons" />
+      <recent name="C:\Users\LENOVO\AndroidStudioProjects\meddeliver\lib" />
+      <recent name="C:\Users\LENOVO\AndroidStudioProjects\meddeliver\assets\json" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\AndroidStudioProjects\meddeliver\lib\pages\screen\users" />
+      <recent name="C:\Users\LENOVO\AndroidStudioProjects\meddeliver\lib\pages\screen" />
+      <recent name="C:\Users\LENOVO\AndroidStudioProjects\meddeliver\lib\pages\ui" />
+      <recent name="C:\Users\LENOVO\AndroidStudioProjects\meddeliver\lib\pages\loginpage" />
+      <recent name="C:\Users\LENOVO\AndroidStudioProjects\meddeliver\lib\pages\splash" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fafa3bf3-24e5-4940-be4c-61d0ca3d6b48" name="Changes" comment="" />
+      <created>1739164914358</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739164914358</updated>
+    </task>
+    <servers />
+  </component>
+</project>
